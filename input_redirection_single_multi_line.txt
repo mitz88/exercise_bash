@@ -1,0 +1,8 @@
+
+
+1. < VS << VS <<< in bash scripting.
+
+All these act as differently and	
+	< - takes input from a file.
+	<< - takes input from multiline input.
+	<<< - takes input from single line string.
